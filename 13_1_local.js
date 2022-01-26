@@ -54,4 +54,11 @@ console.log("Hello people")
 // When it comes to global packages you can install it from anywhere
 console.log("helo wor")
 
-// Yes we can install packages globally and one of the use case 
+// Yes we can install packages globally and one of the use case
+
+// So what is package-lock.json
+// if we look at our dependencies, some of the packages have versions'
+// if you remember, some of the dependencies have more dependencies on their own.
+// those dependencies have versions as well.
+// you probably want them to have the same versions 
+// if the versions changed, your project can become obsolete
