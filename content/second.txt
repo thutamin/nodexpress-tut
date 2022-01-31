@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Hello this is second text file
+=======
 This is the second file
+>>>>>>> 1a8e7f465a3843a156a46fb0f789214841c92ff3
